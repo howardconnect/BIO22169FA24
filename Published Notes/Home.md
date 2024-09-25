@@ -18,3 +18,5 @@ This site is a collection of the notes and class discussions from our course wor
 **This course meets every Friday from 8:45 AM - 12:30 PM.**
 
 ---
+
+[View the RDEB Slide Deck](https://howardconnect.github.io/BIO22169FA24/slides/index.html)

@@ -14,9 +14,9 @@ footer: "Recessive Dystrophic Epidermolysis Bullosa | BIO22169FA24"
 
 ---
 
-![ bg center auto](title.png)
 
 
+![bg center auto](../assets/images/title.png)
 ---
 
 <!-- Disclaimer Slide -->
