@@ -16,7 +16,7 @@ footer: "Recessive Dystrophic Epidermolysis Bullosa | BIO22169FA24"
 
 
 
-![bg center auto](../assets/images/title.png)
+![bg center auto](title.png)
 
 
 ---
@@ -70,7 +70,7 @@ For a deeper understanding, please watch the follow-up video prepared by me:
 
 ---
 
-![bg left fit](../assets/images/figure1.png)
+![bg left fit](figure1.png)
 
 # Pathogenesis of RDEB
 - **Genetic Basis**: Mutations in the COL7A1 gene
@@ -82,14 +82,14 @@ For a deeper understanding, please watch the follow-up video prepared by me:
 ---
 
 
-![bg right 90%](../assets/images/fig2a.png)
+![bg right 90%](fig2a.png)
 
 - **Impact**:
   - Epidermal-dermal separation, blistering, and scarring
 
 ---
 
-![bg center auto](../assets/images/fig2b.png)
+![bg center auto](fig2b.png)
 
 
 ---

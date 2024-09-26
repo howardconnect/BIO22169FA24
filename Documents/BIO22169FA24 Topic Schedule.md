@@ -1,27 +1,5 @@
-
-# Human Anatomy and Physiology I - Home Page
-Campbellsville University · Fall 23-24
-
-## Welcome
-This site is a collection of the notes and class discussions from our course work. [Please refer to our Moodle course page](https://courses.campbellsville.edu/course/view.php?id=45978) for any assignment submission, schedules, and files. 
-
-## Course Details
-
-#### [[About Me]]
-
-- Instructor: Justin N. Howard [Email](https://courses.campbellsville.edu/local/mail/compose.php?m=557744)
-- Phone: 606-451-8474 Ext. 7015
-- Location: Conover Education Center
-- Course Code: BIO22168FA24
-- Course Format: In person
-- Course Dates: August 21, 2024 - December 7, 2024
- 
-**This course meets every Friday from 8:45 AM - 12:30 PM.**
-
----
-
-# Schedule of Course Topics
-*Updated 9/26/2024*
+Course Schedule
+*Revised 9/26/2024*
 
 | Friday Date      | Week Number | Unit & Chapter Content   | Topics Covered                                           |
 | ---------------- | ----------- | ------------------------ | -------------------------------------------------------- |
@@ -41,5 +19,3 @@ This site is a collection of the notes and class discussions from our course wor
 | November 22      | 14          | Unit 5: Chapters 11-13   | Brain and cranial nerves                                 |
 | November 29      | 15          | Unit 6: Chapters 14-16   | Sensory systems, autonomic nervous system                |
 | December 6       | 16          | Unit 6: Chapters 14-16   | Sensory systems, autonomic nervous system                |
-
-This topic schedule is subject to change. 
