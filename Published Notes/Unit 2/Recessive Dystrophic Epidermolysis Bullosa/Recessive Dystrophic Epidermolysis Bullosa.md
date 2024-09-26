@@ -16,8 +16,8 @@ footer: "Recessive Dystrophic Epidermolysis Bullosa | BIO22169FA24"
 
 
 
-![bg center auto](title.png)
 
+![bg center auto](../../../assets/images/title.png)
 
 ---
 
@@ -46,7 +46,7 @@ For a deeper understanding, please watch the follow-up video prepared by me:
 ---
 
 
-[Link to Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4566803/)
+[Link to Paper](https://pubmed.ncbi.nlm.nih.gov/26029334/#:~:text=Objective:%20Review%20the%20pathogenesis%20of%20recessive%20dystrophic%20epidermolysis%20bullosa%20and)
 
 
 
@@ -70,7 +70,7 @@ For a deeper understanding, please watch the follow-up video prepared by me:
 
 ---
 
-![bg left fit](figure1.png)
+![bg left fit](../../../assets/images/figure1.png)
 
 # Pathogenesis of RDEB
 - **Genetic Basis**: Mutations in the COL7A1 gene
@@ -81,16 +81,15 @@ For a deeper understanding, please watch the follow-up video prepared by me:
 
 ---
 
+![bg right 90%](../../../assets/images/fig2a.png)
 
-![bg right 90%](fig2a.png)
 
 - **Impact**:
   - Epidermal-dermal separation, blistering, and scarring
 
 ---
 
-![bg center auto](fig2b.png)
-
+![bg center auto](../../../assets/images/fig2b.png)
 
 ---
 
@@ -135,5 +134,6 @@ For a deeper understanding, please watch the follow-up video prepared by me:
 ---
 
 # References
-- Recessive Dystrophic Epidermolysis · A Review of Disease Pathogenesis and Update on Future Therapies · Journal of Clinical Aesthetic Dermatology, 2015
+
+Marinkovich, M. P. (2015). _Recessive dystrophic epidermolysis bullosa: A review of disease pathogenesis and update on future therapies. Journal of Clinical Aesthetic Dermatology,_ 8(7), 41–46. https://pubmed.ncbi.nlm.nih.gov/26029334
 
