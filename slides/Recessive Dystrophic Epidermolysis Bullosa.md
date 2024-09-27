@@ -14,6 +14,7 @@ footer: "Recessive Dystrophic Epidermolysis Bullosa | BIO22169FA24"
 
 ---
 
+## [View Full Screen Slide Deck](https://<username>.github.io/<repository-name>/slides/Recessive_Dystrophic_Epidermolysis_Bullosa.html)
 
 
 
